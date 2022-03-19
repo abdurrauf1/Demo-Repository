@@ -1,1 +1,1 @@
-This is a the editing of new file 2.
+This is a the editing of new test file 2.
